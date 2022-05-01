@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32120.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixteenStones", "SixteenStones\SixteenStones.csproj", "{5401C40E-3C14-4945-B08C-948318DC14FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5401C40E-3C14-4945-B08C-948318DC14FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5401C40E-3C14-4945-B08C-948318DC14FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5401C40E-3C14-4945-B08C-948318DC14FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5401C40E-3C14-4945-B08C-948318DC14FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F724AAC8-EF92-4777-A212-49AF67637075}
+	EndGlobalSection
+EndGlobal

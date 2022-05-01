@@ -1,0 +1,11 @@
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\bin\Debug\SixteenStones.exe.config
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\bin\Debug\SixteenStones.exe
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\bin\Debug\SixteenStones.pdb
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\obj\Debug\SixteenStones.csproj.AssemblyReference.cache
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\obj\Debug\SixteenStones.csproj.SuggestedBindingRedirects.cache
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\obj\Debug\SixteenStones.Form1.resources
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\obj\Debug\SixteenStones.Properties.Resources.resources
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\obj\Debug\SixteenStones.csproj.GenerateResource.cache
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\obj\Debug\SixteenStones.csproj.CoreCompileInputs.cache
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\obj\Debug\SixteenStones.exe
+D:\Main_Documents\College Related Stuff\KEAN Folder\Class Files\CPS\4981\Unit9\SixteenStones\SixteenStones\obj\Debug\SixteenStones.pdb
