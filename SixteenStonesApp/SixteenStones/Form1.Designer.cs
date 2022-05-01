@@ -112,11 +112,12 @@
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(561, 12);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(174, 48);
+            this.button1.Size = new System.Drawing.Size(174, 70);
             this.button1.TabIndex = 0;
             this.button1.Text = "INITIALIZE";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.startGame);
             // 
             // button2
             // 
@@ -127,6 +128,7 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "EXECUTE";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.executeMove);
             // 
             // picCanvas
             // 
@@ -178,6 +180,7 @@
             this.button3.TabIndex = 6;
             this.button3.Text = "1";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.selectRow1);
             // 
             // button4
             // 
@@ -188,6 +191,7 @@
             this.button4.TabIndex = 7;
             this.button4.Text = "2";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.selectRow2);
             // 
             // button5
             // 
@@ -198,6 +202,7 @@
             this.button5.TabIndex = 8;
             this.button5.Text = "3";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.selectRow3);
             // 
             // button6
             // 
@@ -208,6 +213,7 @@
             this.button6.TabIndex = 9;
             this.button6.Text = "4";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.MouseClick += new System.Windows.Forms.MouseEventHandler(this.selectRow4);
             // 
             // button7
             // 
@@ -218,6 +224,7 @@
             this.button7.TabIndex = 10;
             this.button7.Text = "5";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.MouseClick += new System.Windows.Forms.MouseEventHandler(this.selectRow5);
             // 
             // r1s1
             // 

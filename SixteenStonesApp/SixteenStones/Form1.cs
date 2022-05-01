@@ -41,5 +41,40 @@ namespace SixteenStones
         {
 
         }
+
+        private void startGame(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void selectRow1(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void selectRow2(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void selectRow3(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void selectRow4(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void selectRow5(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void executeMove(object sender, MouseEventArgs e)
+        {
+
+        }
     }
 }
