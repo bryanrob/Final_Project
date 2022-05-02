@@ -67,6 +67,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -80,6 +81,42 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AmazoniteGemstone2-standard-width-90px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AmazoniteGemstone3-standard-width-90px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AmazoniteGemstone-standard-width-96px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AzuriteStone-standard-width-90px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gameboard-standard-height-513px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jasper Gemstone-standard-width-90px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SnowflakeGemstone-standard-width-90px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SodaliteGemstone2-standard-width-90px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SodaliteGemstone-standard-width-90px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UnakiteGemstone2-standard-width-90px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UnakiteGemstone3-standard-width-90px-gigapixel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UnakiteGemstone-standard-width-90px-gigapixel.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
