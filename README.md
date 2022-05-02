@@ -5,7 +5,9 @@ The game of Sixteen Stones in C#.
 Dotnet 6.0 or later.
 
 ## User Instructions
-Start with the following command:
+To use the Windows Forms application, open the SixteenStonesApp folder and open the SixteenStones.sln file in Visual Studio Preview.  From there, run the program and play the game.
+
+To use the command-line based version, open the SixteenStonesGame folder and enter the following command:
 ```
 dotnet run
 ```
